@@ -4,9 +4,9 @@ Ce dépôt est un exemple de dépôt Git contenant une bibliothèque Python
 permettant d’effectuer des opérations mathématiques très simples.
 
 ### 1- Le noms des 3 personnes ayant effectué des commits sur le projets sont :
-Hypatie d’Alexandrie
-Ada Lovelace
-Edsger Dijkstra
+- Hypatie d’Alexandrie
+- Ada Lovelace
+- Edsger Dijkstra
 
 ### 2- Le nom des branches qui n'ont pas été fusinnées dans la branches main sont :
 trigonometrie
