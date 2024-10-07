@@ -6,7 +6,7 @@ permettant d’effectuer des opérations mathématiques très simples.
 ### 1- Le noms des 3 personnes ayant effectué des commits sur le projets sont :
 Hypatie d’Alexandrie
 Ada Lovelace
-Akinocho Derrick
+Edsger Dijkstra
 
 ### 2- Le nom des branches qui n'ont pas été fusinnées dans la branches main sont :
 trigonometrie
